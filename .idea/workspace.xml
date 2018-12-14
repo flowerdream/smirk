@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35776ed5-2abb-47e8-b177-cfe1c7d00895" name="Default Changelist" comment="" />
+    <list default="true" id="35776ed5-2abb-47e8-b177-cfe1c7d00895" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1544605350921.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/1544605350921.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1544769138398.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/1544769138398.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1544769168628.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/1544769168628.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1544771632946.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/1544771632946.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/logo.png" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,50 +23,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5443038">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="317">
-                  <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
-                  <folding>
-                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="e#4862#6652#0" />
-                    <element signature="e#6971#9630#0" />
-                    <element signature="e#9662#12442#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="543">
-                  <caret line="154" column="27" lean-forward="true" selection-start-line="154" selection-start-column="27" selection-end-line="154" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="315" column="3" selection-start-line="315" selection-start-column="3" selection-end-line="315" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,7 +73,11 @@
       <find>SpilloverRate</find>
       <find>CallLossRate</find>
       <find>disblock</find>
+      <find>footer_l</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,8 +88,9 @@
         <option value="$PROJECT_DIR$/js/echart.js" />
         <option value="$PROJECT_DIR$/js/jquery.classyloader.js" />
         <option value="$PROJECT_DIR$/tuniu.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
       </list>
     </option>
   </component>
@@ -93,6 +98,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -104,6 +110,17 @@
             <path>
               <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
               <item name="tuniu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuniu" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuniu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuniu" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery.classyloader.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -121,6 +138,13 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -133,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.tuniu.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index 1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuniu/index 1.html">
       <method v="2" />
     </configuration>
@@ -145,8 +169,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.tuniu.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.tuniu.html" />
         <item itemvalue="JavaScript Debug.index 1.html" />
       </list>
     </recent_temporary>
@@ -163,12 +187,12 @@
       <updated>1544578741380</updated>
       <workItem from="1544578743921" duration="16170000" />
       <workItem from="1544666860030" duration="17706000" />
-      <workItem from="1544751342983" duration="16293000" />
+      <workItem from="1544751342983" duration="16905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50169000" />
+    <option name="totallyTimeSpent" value="50781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -231,17 +255,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.classyloader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1544769138398.jpg">
+    <entry file="file://$PROJECT_DIR$/image/1544769138398.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tuniu.html">
@@ -251,7 +265,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
           <caret line="154" column="27" lean-forward="true" selection-start-line="154" selection-start-column="27" selection-end-line="154" selection-end-column="27" />
@@ -261,15 +275,16 @@
     <entry file="file://$PROJECT_DIR$/tuniu_bg.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1544605350921.jpg">
+    <entry file="file://$PROJECT_DIR$/image/1544605350921.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        <state relative-caret-position="310">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -279,11 +294,33 @@
             <element signature="n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#4862#6652#0" />
-            <element signature="e#6971#9630#0" />
-            <element signature="e#9662#12442#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.classyloader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-637">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.classyloader.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="315" column="3" selection-start-line="315" selection-start-column="3" selection-end-line="315" selection-end-column="3" />
         </state>
       </provider>
     </entry>
